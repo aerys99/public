@@ -1,2 +1,2 @@
-# public
-public files
+# AerysGG Public Repository
+Storage for public facing files and code. 
